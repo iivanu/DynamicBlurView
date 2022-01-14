@@ -18,7 +18,7 @@ DynamicBlurView is a dynamic and high performance UIView subclass for Blur.
 ## Requirements
 
 - Swift 5
-- iOS 8.0 or later
+- iOS 9.0 or later
 - tvOS 9.0 or later
 
 ## How to Install DynamicBlurView
